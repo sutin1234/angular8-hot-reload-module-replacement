@@ -1,8 +1,6 @@
 # Angular8 hot reload Module
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YiwlQeAd--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--FP9yzz3F--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/efyr3v85x8kfefvvl39d.png" width="300">
-
-<img src="https://cloud.githubusercontent.com/assets/1016365/26220655/77e69902-3be1-11e7-8305-87471affe598.png" width="300">
+<img src="https://cloud.githubusercontent.com/assets/1016365/26220655/77e69902-3be1-11e7-8305-87471affe598.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
